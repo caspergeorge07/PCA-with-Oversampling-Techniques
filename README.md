@@ -1,7 +1,7 @@
-Project Title
+** Project Title
 PCA with Oversampling Techniques: Enhancing Classification in Imbalanced Datasets
 
-Overview
+** Overview
 This project integrates Principal Component Analysis (PCA) with Oversampling Techniques like SMOTE to address class imbalance in datasets. By combining dimensionality reduction with synthetic sampling, the project improves model performance and enhances the classification of minority class instances.
 
 Objectives
@@ -9,7 +9,8 @@ Reduce dataset dimensionality using PCA, focusing on the most significant compon
 Balance imbalanced datasets using oversampling techniques such as SMOTE and ADASYN.
 Compare the performance of machine learning models with and without PCA and oversampling.
 Evaluate the impact of PCA on oversampling efficiency and downstream classification.
-Workflow
+
+** Workflow
 Data Preprocessing:
 
 Standardized features for consistent scaling.
